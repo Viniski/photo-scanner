@@ -7,7 +7,7 @@ A small project that allows you to scan all the photos on any website.
 * HTML
 * CSS
 * Axios
-* jsdom
+* Jsdom
 
 ### Download the project to your computer and then:
 
