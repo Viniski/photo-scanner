@@ -13,7 +13,7 @@ A small project that allows you to scan all the photos on any website.
 
 ```zsh
 npm install
-node index.js
+npm start
 ```
 
 ## License
