@@ -6,6 +6,15 @@ A small project that allows you to scan all the photos on any website.
 * Express.js
 * HTML
 * CSS
+* Axios
+* jsdom
+
+### Download the project to your computer and then:
+
+```zsh
+npm install
+node index.js
+```
 
 ## License
 This project is licensed under the MIT License
