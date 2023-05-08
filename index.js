@@ -1,7 +1,7 @@
 const axios = require("axios");
 const express = require("express");
 const { getImages } = require("./services/services-images");
-
+//komentarze
 const app = express();
 const port = 3000;
 
